@@ -1,0 +1,7 @@
+*series/settings.py
+__pycache__/
+*.sqlite3
+*.swp
+*.swa
+.DS_Store
+.vscode/
