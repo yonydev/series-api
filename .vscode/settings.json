@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    80
+  ],
+  "python.pythonPath": "/Users/yony/.virtualenvs/series-api/bin/python",
+  "python.linting.pylintPath": "/Users/yony/.virtualenvs/series-api/bin/pylint",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django"
+  ],
+  "python.linting.pylintEnabled": true
+}
